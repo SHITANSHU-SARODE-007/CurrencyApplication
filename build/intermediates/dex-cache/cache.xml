@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\ITMD-555Android\CurrencyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="318d867fc83c919f5a978a5a5456fa72d0d3c5e4">
+        <dex dex="D:\ITMD-555Android\CurrencyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2343cbfd3fef0949c161cb729b3384a1a6de56ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shitanshu\.android\build-cache\b914ba5d38471327fcdf11426ff57a401de21a57\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\ITMD-555Android\CurrencyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0421eb39df6035534dfe63bb04918189677ffa79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shitanshu\.android\build-cache\036ba9a43230d5ba81820f94739562a8e3c3ddc6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\ITMD-555Android\CurrencyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19200a3dc3af83f6ae938da1b1446ac349487f97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ITMD-555Android\CurrencyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\ITMD-555Android\CurrencyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d99065c5dff3bc4efb920d1f2b6d3dcdb71f5aad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shitanshu\.android\build-cache\d235fd84d189500365e2429045b388874bf1d654\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\ITMD-555Android\CurrencyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68e570d1dfb26276f59a5a63c28e42d3732fc259\classes.dex" />
+    </item>
+
+</items>
